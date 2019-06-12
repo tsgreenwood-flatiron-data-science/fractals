@@ -11,3 +11,11 @@ Gizeh from http://zulko.github.io/blog/2014/09/20/vector-animations-with-python/
 Sierpiński's carpet fractal animation for teaching Python 3 from https://codereview.stackexchange.com/questions/212564/sierpi%C5%84skis-carpet-fractal-animation-for-teaching-python-3
 
 
+Sierpiński's carpet image from
+https://www.geeksforgeeks.org/python-sierpinski-carpet/
+
+turtle Sierpiński's triangles from 
+https://rosettacode.org/wiki/Sierpinski_triangle/Graphical#Python
+
+
+
